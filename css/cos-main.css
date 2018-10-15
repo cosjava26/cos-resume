@@ -4295,6 +4295,10 @@ section.about-section ul.skills li .skill-rate {
   font-size: 16px;
   text-transform: initial;
   font-weight: normal; }
+  .timeline-content .c-name .c-name-desc {
+    display: block;
+    margin: 10px 0 0 0;
+    font-size: 13px; }
 
 .timeline-content .c-title {
   margin: 15px;
@@ -4737,5 +4741,3 @@ footer .footer-below {
 
 .logo-img {
   max-width: 100%; }
-
-/*# sourceMappingURL=cos-main.css.map */

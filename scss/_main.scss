@@ -568,16 +568,23 @@ section.about-section ul.skills li .skill-rate{
   border-right:10px solid #6adaac;
 }
 
-.timeline-content .c-name{
-  margin: 0;
-  padding: 15px;
-  background-color: #6adaac;
-  border-radius: 0.25em 0.25em 0 0;
-  text-align: left;
-  color: #fff;
-  font-size: 16px;
-  text-transform: initial;
-  font-weight: normal;
+.timeline-content{ 
+  .c-name{
+    margin: 0;
+    padding: 15px;
+    background-color: #6adaac;
+    border-radius: 0.25em 0.25em 0 0;
+    text-align: left;
+    color: #fff;
+    font-size: 16px;
+    text-transform: initial;
+    font-weight: normal;
+    .c-name-desc{
+      display: block;
+      margin: 10px 0 0 0;
+      font-size: 13px;
+    }
+  }
 }
 .timeline-content .c-title{
   margin: 15px;
