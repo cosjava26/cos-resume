@@ -4644,6 +4644,13 @@ footer .footer-below {
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0; }
 
+.portfolio-modal .modal-content ul.list-userfeeback {
+  text-align: justify;
+  font-size: 16px;
+  line-height: 1.5em; }
+  .portfolio-modal .modal-content ul.list-userfeeback > li {
+    margin: 0 0 10px 0; }
+
 .portfolio-modal .close-modal {
   position: absolute;
   top: 25px;
