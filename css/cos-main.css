@@ -3939,7 +3939,7 @@ header .header-bg {
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url("../img/header-bg2.jpg");
-  opacity: .1;
+  opacity: 0.2;
   background-attachment: fixed; }
 
 header .container {
