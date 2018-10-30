@@ -935,12 +935,20 @@ footer .footer-below {
     box-shadow: none;
 }
 .portfolio-modal .modal-content p{text-align: justify;}
+.portfolio-modal .modal-content p.note{font-size: 1em;}
 
 .portfolio-modal .modal-content strong{color: #3FC1C9;}
 
 .portfolio-modal .modal-content h2 {
     margin: 0 0 20px 0;
     font-size: 3em;
+    line-height: 1.5em;
+    color: #34495e;
+}
+.portfolio-modal .modal-content h2 span{
+    display: block;
+    margin: 0 0 0 0;
+    font-size: 0.68em;
     color: #34495e;
 }
 .portfolio-modal .modal-content h3.app-subtitle{
