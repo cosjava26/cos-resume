@@ -5278,12 +5278,15 @@ section.about-section ul.skills li .skill-rate {
   color: #fff;
   font-size: 16px;
   text-transform: initial;
-  font-weight: normal;
+  font-weight: bold;
 }
 .timeline-content .c-name .c-name-desc {
   display: block;
-  margin: 10px 0 0 0;
+  margin: 6px 0 0 0;
   font-size: 13px;
+  line-height: 18px;
+  text-align: justify;
+  font-weight: normal;
 }
 
 .timeline-content .c-title {
